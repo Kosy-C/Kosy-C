@@ -4,7 +4,7 @@
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+,+I'm+Kosisochukwu+Evelyn+Chinweuba;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<a href="linkedin.com/in/kosisochukwu-chinweuba-28b089163" target="_blank">
+<a href="https://www.linkedin.com/in/kosisochukwu-chinweuba/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/KosyChinweuba?t=9VWWnGvg6fySCx6ljSuoLw&s=09" target="_blank">
